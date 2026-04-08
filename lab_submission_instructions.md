@@ -54,6 +54,7 @@ Your client, a university, is seeking to enhance their qualitative analysis of
 student course evaluations collected from students. They have provided you
 with a dataset containing student course evaluation for two courses in the
 Business Intelligence Option. The two courses are:
+
 - BBT 4106: Business Intelligence I
 - BBT 4206: Business Intelligence II
 
@@ -64,20 +65,25 @@ get the sentiments (positive, negative, neutral) of each theme in the course eva
 Lastly, the client would like an interface through which they can provide input in the
 form of new textual data (one student's textual evaluation at a time) and the output
 expected is:
+
 1. The topic (theme) that the new textual data is talking about.
 2. The sentiment (positive, negative, neutral) of the new textual data.
 
 Use one of the following to create a demo interface for your client:
+
 - Hugging Face Spaces using a Gradio App – [https://huggingface.co/spaces](https://huggingface.co/spaces)
 - Streamlit Community Cloud (Streamlit Sharing) using a Streamlit App – [https://share.streamlit.io](https://share.streamlit.io)
+
 ---
+
 ## Dataset
 
-Use the course evaluation dataset provided in Google Classroom.
+Use the course evaluation dataset provided in class.
 
 ## Interpretation and Recommendation
 
 Provide a brief interpretation of the results and a recommendation for the client.
+
 - Interpret what the discovered topics mean and why certain sentiments dominate
 - Provide recommendations based on your results. **Do not** recommend anything that is not supported by your results.
 
@@ -90,7 +96,6 @@ Also include (in the same video) the user interface hosted on hugging face or st
 |:------------------------------------|:----------|
 | **Link to the video:**              |           |
 | **Link to the hosted application:** |           |
-
 
 ## Grading Approach
 
