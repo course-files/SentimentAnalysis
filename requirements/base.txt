@@ -1,0 +1,13 @@
+# requirements/base.txt
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+
+nltk
+seaborn
+tqdm
+wordcloud
+google
+protobuf
